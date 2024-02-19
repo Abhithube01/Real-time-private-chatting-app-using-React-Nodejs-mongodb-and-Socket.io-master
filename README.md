@@ -1,0 +1,2 @@
+# Real-time-private-chatting-app-using-React-Nodejs-mongodb-and-Socket.io-master
+Private React Chat App  A cutting-edge chat application developed in React, prioritizing real-time communication. Leverages WebSocket technology for instant updates, ensuring a responsive and dynamic user experience. With a focus on user authentication and a modular React component structure, this project maintains a secure and scalable codebase. 
